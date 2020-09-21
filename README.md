@@ -1,0 +1,1 @@
+# terse-2-pseudo-mobile-app
